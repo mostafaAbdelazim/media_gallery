@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/media_gallery.iml" filepath="$PROJECT_DIR$/media_gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/media_gallery.iml" filepath="$PROJECT_DIR$/.idea/modules/media_gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/media_gallery.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/media_gallery.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/media_gallery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/media_gallery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/media_gallery.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/media_gallery.unitTest.iml" />
     </modules>
   </component>
 </project>
